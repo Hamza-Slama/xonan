@@ -1,0 +1,15 @@
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>tn.eniso.app.xonan</groupId>
+    <artifactId>xonan</artifactId>
+    <version>1.0</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>xonan-service</module>
+        <module>xonan-web</module>
+        <module>plugins/themes/xonan-theme</module>
+        <module>plugins/xonan-inspection/xonan-inspection-service</module>
+        <module>plugins/xonan-inspection/xonan-inspection-web</module>
+    </modules>
+</project>
