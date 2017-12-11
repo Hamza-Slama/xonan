@@ -19,7 +19,7 @@ public class Response {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(int idz) {
         this.id = id;
     }
 
