@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xonan.iml" filepath="$PROJECT_DIR$/xonan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/xonan-inspection/xonan-inspection-service/xonan-inspection-service.iml" filepath="$PROJECT_DIR$/plugins/xonan-inspection/xonan-inspection-service/xonan-inspection-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/xonan-inspection/xonan-inspection-web/xonan-inspection-web.iml" filepath="$PROJECT_DIR$/plugins/xonan-inspection/xonan-inspection-web/xonan-inspection-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xonan-service/xonan-service.iml" filepath="$PROJECT_DIR$/xonan-service/xonan-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/themes/xonan-theme/xonan-theme.iml" filepath="$PROJECT_DIR$/plugins/themes/xonan-theme/xonan-theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xonan-web/xonan-web.iml" filepath="$PROJECT_DIR$/xonan-web/xonan-web.iml" />
+    </modules>
+  </component>
+</project>

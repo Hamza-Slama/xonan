@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xonan-inspection-service" />
+        <module name="xonan-inspection-web" />
+        <module name="xonan-service" />
+        <module name="xonan-theme" />
+        <module name="xonan-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xonan" target="1.5" />
+      <module name="xonan-inspection-service" target="1.8" />
+      <module name="xonan-inspection-web" target="1.8" />
+      <module name="xonan-service" target="1.8" />
+      <module name="xonan-theme" target="1.8" />
+      <module name="xonan-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

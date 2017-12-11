@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xonan-web:war">
+    <output-path>$PROJECT_DIR$/xonan-web/target</output-path>
+    <root id="archive" name="enisoinfo.war">
+      <element id="artifact" artifact-name="xonan-web:war exploded" />
+    </root>
+  </artifact>
+</component>
